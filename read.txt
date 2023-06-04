@@ -1,0 +1,1 @@
+Hallo Welt! Das ist die erste Zeile, die ich mit dem Terminal schreibe. Wir haben noch einen langen Weg vor uns..
